@@ -12,3 +12,7 @@ __pycache__
 # Log file & database
 *.log
 *.db
+
+# Session
+*.session
+*.session-journal
