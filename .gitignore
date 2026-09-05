@@ -1,0 +1,14 @@
+# Project Pi Zero - Phatcraft
+
+# Git ignore file
+
+# Python
+venv
+__pycache__
+
+# Server environment variables
+.env
+
+# Log file & database
+*.log
+*.db
